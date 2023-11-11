@@ -1,0 +1,4 @@
+IG_UI_FR = {
+	IGUI_VehicleName88jetta4doorMk2 = "'88 VW Jetta Mk2 4 Portières"
+	IGUI_VehicleName88jetta2doorMk2 = "'88 VW Jetta Mk2 2 Portières"
+}
